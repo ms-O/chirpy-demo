@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://ms-o.github.io/chirpy-demo/sitemap.xml

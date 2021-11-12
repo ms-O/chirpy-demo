@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://ms-o.github.io/chirpy-demo/categories/</loc>
+<lastmod>2021-11-12T12:15:59-05:00</lastmod>
+</url>
+<url>
+<loc>https://ms-o.github.io/chirpy-demo/tags/</loc>
+<lastmod>2021-11-12T12:15:59-05:00</lastmod>
+</url>
+<url>
+<loc>https://ms-o.github.io/chirpy-demo/archives/</loc>
+<lastmod>2021-11-12T12:15:59-05:00</lastmod>
+</url>
+<url>
+<loc>https://ms-o.github.io/chirpy-demo/about/</loc>
+<lastmod>2021-11-12T12:15:59-05:00</lastmod>
+</url>
+<url>
+<loc>https://ms-o.github.io/chirpy-demo/</loc>
+</url>
+</urlset>
